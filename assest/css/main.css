@@ -1,0 +1,32 @@
+body {
+  padding-top: 70px;
+  background: #ddd;
+  font-size: 16px
+}
+.div_form{
+	background: #888;
+	padding: 10px;
+	margin-bottom: 20px
+}
+.panel-heading{
+	background: #888 !important;
+	color: #fff !important
+}
+.thumbnail{
+	position: relative;
+}
+.thumbnail img{
+	width: 100%
+}
+.thumbnail .price{
+	position: absolute;
+	top: 40px;
+	right: 5px;
+	background: green;
+	font-size: 16px;
+	padding: 5px
+}
+.qty{
+	width: 30px;
+	margin: 10px;
+}
